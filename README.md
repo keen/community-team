@@ -1,5 +1,5 @@
 # community-team
-here's a little bit about our community team, so our community can get to know us better and understand why we exist and what we do. The text below was copy/pasted from the Keen Operating System - a private Github repo (set of documents) that we use at [Keen](https://keen.io) to define our company's operational structure, organizational practices, etc. 
+Here's a little bit about the community team at [Keen IO](https://keen.io), so our community can get to know us better and understand why we exist and what we do. The text below was copy/pasted from the Keen Operating System - a private Github repo (set of documents) that we use at Keen to define our company's operational structure, organizational practices, etc. Every employee is a contributor to the repo.
 
 #The Keen IO Community team
 ...is dedicated to ensuring that the community around our (Keen's) people, platform, and brand is the most loving & caring, welcoming & inclusive, helpful & fulfilling place it can be, on the internet and IRL.
