@@ -9,6 +9,9 @@
 ### [Particle](https://www.particle.io/):
 - Hamster Fitness Tracker with Photon [Blog post](http://www.bold-it.com/arduino/javascript/hamster-fitness-tracker/) / [Source code](https://github.com/BoldBigflank/hamster)
 
+### [Phone Gap](http://phonegap.com/):
+- How to Add Analytics to your PhoneGap App [Blog post](http://phonegap.com/blog/2015/08/18/adding-analytics-to-your-phonegap-app/) / [Source code](https://github.com/hex337/phonegap-keen)
+
 ### [SendGrid](https://sendgrid.com/):
 - Making a dashboard with Keen IO + SendGrid's Event Webhook data [Blog post](https://www.airpair.com/sendgrid/posts/making-a-dashboard-with-keen-io-sendgrid-events) / [Source code](https://github.com/heitortsergent/keen-io-sendgrid-dashboard)
 
