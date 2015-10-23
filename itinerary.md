@@ -21,6 +21,8 @@ This idea was inspired by tweets from community members like [Melanie](https://t
 ####How can we help? 
 When we visit a [geographic] community, we tend to engage in lots of ways. Whatever we do, we aim for our efforts to create value for the people who are welcoming us into their "home."
 
+![ham?](http://i.giphy.com/p3Wl6y9bTgyYw.gif)
+
 #####Some examples
 * __Office Hours__: we can get together, in 1-on-1 or small group setting, in an office, coffee shop, bar (anywhere!), and chat about data, analytics, community, startups, cat shirts (anything!). Our objective is to HELP. Whenever one of our team members is traveling to another city, we try to reach out to our local network and offer our time to be helpful. Likewise, we love it when folks reach out to us! 
 
