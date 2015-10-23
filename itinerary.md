@@ -8,13 +8,13 @@ San Francisco is our home town, but we also have remote team members in Austin, 
 
 For those of you with whom we don't share a home town, we'd love to pay you a visit some time. 
 
-###Want us to come to your town and say hi? Submit a [pull request](https://help.github.com/articles/creating-a-pull-request/), and we'll see about adding it to our itinerary! 
+####Want us to come to your town and say hi? Submit a [pull request](https://help.github.com/articles/creating-a-pull-request/), and we'll see about adding it to our itinerary! 
 
 We can't make any promises, but we figured it'd be great to get input from our community members, so we can make more informed decisions in terms of where to focus our airline miles 🛩 
 
 This idea was inspired by tweets from community members like [Melanie](https://twitter.com/melaniersumner/status/657260447545098240) and [Michael](https://twitter.com/mike_mitt/status/657043522802044928), and we want to encourage more people to reach out like this. 
 
-##How can we help? 
+####How can we help? 
 When we visit a [geographic] community, we tend to engage in lots of ways. Whatever we do, we aim for our efforts to create value for the people who are welcoming us into their "home."
 
 ####Some examples
