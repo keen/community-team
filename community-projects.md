@@ -1,4 +1,5 @@
 # Projects Built Using Keen IO (Work in Progress)
+List of project built with Keen IO, organized by Framework, API, Hardware, or Platform used
 
 ### [Arduino](https://www.arduino.cc/):
 - Analytics Tracking for Arduino [Blog post](https://keen.io/blog/121840400161/introducing-analytics-tracking-for-arduino) / [Source Code](https://github.com/hex337/keen-arduino-activity-tracker)
@@ -9,11 +10,11 @@
 ### [Electric Imp](https://electricimp.com):
 - Graphing PIR Motion Sensor Data with Electric Imp & Keen IO [Blog post](https://keen.io/blog/92158848051/graphing-pir-motion-sensor-data-with-electric-imp) 
 
-### [Firebase]():
+### [Firebase](https://www.firebase.com/):
 - Visualize Activity at Your Next Event With Lasers [Blog post](https://keen.io/blog/130769504271/visualize-activity-at-your-next-event-with)
 - Making a Keen.io Dashboard Real-time by Integrating it with Firebase & D3.js [Blog post](https://www.airpair.com/firebase/posts/making-a-keenio-dashboard-realtime-by-integrating-it-with-firebase--d3js) / [Source code](https://github.com/markoshust/firebase-keen)
 
-### [D3.js]():
+### [D3.js](http://d3js.org/):
 - Making a Keen.io Dashboard Real-time by Integrating it with Firebase & D3.js [Blog post](https://www.airpair.com/firebase/posts/making-a-keenio-dashboard-realtime-by-integrating-it-with-firebase--d3js) / [Source code](https://github.com/markoshust/firebase-keen)
 
 ### [Particle](https://www.particle.io/):
