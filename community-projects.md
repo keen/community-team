@@ -29,6 +29,8 @@
 ### [SendGrid](https://sendgrid.com/):
 - Making a dashboard with Keen IO + SendGrid's Event Webhook data [Blog post](https://www.airpair.com/sendgrid/posts/making-a-dashboard-with-keen-io-sendgrid-events) / [Source code](https://github.com/heitortsergent/keen-io-sendgrid-dashboard)
 
-### Don't see your project here?
+## Contributions:
 
-Send us a pull request to add it! We ❤ to show off our community members projects!
+Don't see your project here?
+
+Send us a pull request to add it! We ❤ to show off our community members projects! Feel free to add it to multiple categories.
