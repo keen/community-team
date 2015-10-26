@@ -65,7 +65,7 @@ List of project built with Keen IO or for using Keen IO
 
 ## Contributions:
 
-Don't see your project here? Send us a pull request to add it! We ❤ to show off our community members projects! Feel free to add it to multiple categories. Format for adding projects:
+Don't see your project here? Send us a pull request to add it! Even the smallest projects can help other community members. We ❤ to show off our community members projects! It is preferred that some if not all code is openly shared. Feel free to add it to multiple categories. Format for adding projects:
 
 ```
 ### [API/Framework/Hardware/Etc, if it isn't already listed](url):
