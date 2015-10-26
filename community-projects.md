@@ -28,7 +28,7 @@ List of project built with Keen IO or for using Keen IO
 - Visualize Activity at Your Next Event With Lasers [Blog post](https://keen.io/blog/130769504271/visualize-activity-at-your-next-event-with)
 - Making a Keen.io Dashboard Real-time by Integrating it with Firebase & D3.js [Blog post](https://www.airpair.com/firebase/posts/making-a-keenio-dashboard-realtime-by-integrating-it-with-firebase--d3js) / [Source code](https://github.com/markoshust/firebase-keen)
 
-## [Google Analytics](https://www.google.com/analytics/):
+### [Google Analytics](https://www.google.com/analytics/):
 - How to Get Raw Google Analytics Data Using Keen IO [Blog post](http://blog.uploadcare.com/how-to-dig-missing-google-analytics-data-with-keen/)
 
 ### [Meteor](https://www.meteor.com/):
