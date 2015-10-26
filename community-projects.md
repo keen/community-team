@@ -9,8 +9,16 @@
 ### [Electric Imp](https://electricimp.com):
 - Graphing PIR Motion Sensor Data with Electric Imp & Keen IO [Blog post](https://keen.io/blog/92158848051/graphing-pir-motion-sensor-data-with-electric-imp) 
 
+### [Firebase]():
+- Visualize Activity at Your Next Event With Lasers [Blog post](https://keen.io/blog/130769504271/visualize-activity-at-your-next-event-with)
+- Making a Keen.io Dashboard Real-time by Integrating it with Firebase & D3.js [Blog post](https://www.airpair.com/firebase/posts/making-a-keenio-dashboard-realtime-by-integrating-it-with-firebase--d3js) / [Source code](https://github.com/markoshust/firebase-keen)
+
+### [D3.js]():
+- Making a Keen.io Dashboard Real-time by Integrating it with Firebase & D3.js [Blog post](https://www.airpair.com/firebase/posts/making-a-keenio-dashboard-realtime-by-integrating-it-with-firebase--d3js) / [Source code](https://github.com/markoshust/firebase-keen)
+
 ### [Particle](https://www.particle.io/):
 - Hamster Fitness Tracker with Photon [Blog post](http://www.bold-it.com/arduino/javascript/hamster-fitness-tracker/) / [Source code](https://github.com/BoldBigflank/hamster)
+- Visualize Activity at Your Next Event With Lasers [Blog post](https://keen.io/blog/130769504271/visualize-activity-at-your-next-event-with)
 
 ### [Pebble](https://developer.getpebble.com/):
 - Analytical Apps for Your Smartwatch: Getting started with Keen + Pebble [Blog post](https://keen.io/blog/108845697281/analytical-apps-for-your-smartwatch-getting) / [Source code](https://github.com/keen/pingpongpebbleapp)
