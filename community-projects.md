@@ -31,6 +31,9 @@
 
 ## Contributions:
 
-Don't see your project here?
+Don't see your project here? Send us a pull request to add it! We ❤ to show off our community members projects! Feel free to add it to multiple categories. Format for adding projects:
 
-Send us a pull request to add it! We ❤ to show off our community members projects! Feel free to add it to multiple categories.
+```
+### [API/Framework/Hardware/Etc, if it doesn't already listed](url):
+- Project or Blog Post title [Blog post, if it exists](url) / [Source code, if it exists](url)
+```
