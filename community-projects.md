@@ -1,5 +1,7 @@
-# Projects Built Using Keen IO (Work in Progress)
-List of project built with Keen IO, organized by Framework, API, Hardware, or Platform used
+# Projects Built Using Keen IO
+List of project built with Keen IO or for using Keen IO
+
+### Organized by Framework, API, Hardware, or Platform used:
 
 ### [Arduino](https://www.arduino.cc/):
 - Analytics Tracking for Arduino [Blog post](https://keen.io/blog/121840400161/introducing-analytics-tracking-for-arduino) / [Source Code](https://github.com/hex337/keen-arduino-activity-tracker)
@@ -32,6 +34,9 @@ List of project built with Keen IO, organized by Framework, API, Hardware, or Pl
 ### [Meteor](https://www.meteor.com/):
 - Cohort Visualization Tool built with Meteor and Keen IO [Blog post](https://www.airpair.com/keen-io/posts/making-phil-libin-style-cohort-visualizations-available-to-everyone)
 
+### [MQTT](http://mqtt.org/):
+- Really simple MQTT IoT logging with Keen IO [Blog post](https://zoetrope.io/tech-blog/simple-mqtt-iot-logging) / [Source code](https://github.com/ZoetropeLabs/keenmqtt)
+
 ### [Particle](https://www.particle.io/):
 - Hamster Fitness Tracker with Photon [Blog post](http://www.bold-it.com/arduino/javascript/hamster-fitness-tracker/) / [Source code](https://github.com/BoldBigflank/hamster)
 - Visualize Activity at Your Next Event With Lasers [Blog post](https://keen.io/blog/130769504271/visualize-activity-at-your-next-event-with)
@@ -55,6 +60,8 @@ List of project built with Keen IO, organized by Framework, API, Hardware, or Pl
 ### [Twitter]():
 - Creating a Community and Social Media Dashboard using Dashing and Keen IO [Blog post](http://purevirtual.eu/2015/02/09/creating-a-community-and-social-media-dashboard-using-dashing-and-keen-io/)
 
+### General projects:
+- Replaying User Interactions from Keen IO Data [Blog post](https://zoetrope.io/tech-blog/replaying-user-interactions-keen-io-data)
 
 ## Contributions:
 
