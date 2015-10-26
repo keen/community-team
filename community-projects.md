@@ -13,6 +13,9 @@ List of project built with Keen IO, organized by Framework, API, Hardware, or Pl
 ### [D3.js](http://d3js.org/):
 - Making a Keen.io Dashboard Real-time by Integrating it with Firebase & D3.js [Blog post](https://www.airpair.com/firebase/posts/making-a-keenio-dashboard-realtime-by-integrating-it-with-firebase--d3js) / [Source code](https://github.com/markoshust/firebase-keen)
 
+### [Dashing](http://shopify.github.io/dashing/):
+- Creating a Community and Social Media Dashboard using Dashing and Keen IO [Blog post](http://purevirtual.eu/2015/02/09/creating-a-community-and-social-media-dashboard-using-dashing-and-keen-io/)
+
 ### [Django](https://www.djangoproject.com/):
 - Using Keen IO for Whitelabel Analytics [Blog post](http://hanskuder.com/2015/01/27/keenio-purchase-events/)
 
@@ -48,6 +51,10 @@ List of project built with Keen IO, organized by Framework, API, Hardware, or Pl
 
 ### [Tessel](https://tessel.io/):
 - Tessel + Keen IO [Blog post](https://tessel.io/blog/100161311142/tessel-keenio) / [Source code](https://github.com/jiahuang/tessel-keen)
+
+### [Twitter]():
+- Creating a Community and Social Media Dashboard using Dashing and Keen IO [Blog post](http://purevirtual.eu/2015/02/09/creating-a-community-and-social-media-dashboard-using-dashing-and-keen-io/)
+
 
 ## Contributions:
 
