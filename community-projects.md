@@ -58,7 +58,7 @@ List of project built with Keen IO or for using Keen IO
 ### [Tessel](https://tessel.io/):
 - Tessel + Keen IO [Blog post](https://tessel.io/blog/100161311142/tessel-keenio) / [Source code](https://github.com/jiahuang/tessel-keen)
 
-### Social Media, Forums, Github:
+### Social Media, [Stack Overflow](http://stackoverflow.com), [Github](https://github.com):
 - Creating a Community and Social Media Dashboard using Dashing and Keen IO [Blog post](http://purevirtual.eu/2015/02/09/creating-a-community-and-social-media-dashboard-using-dashing-and-keen-io/)
 - more details in our [Community Dashboards repo](https://github.com/keen/dashboards-dot-community/blob/master/examples.md)
 
