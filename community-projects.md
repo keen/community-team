@@ -23,7 +23,7 @@ List of project built with Keen IO or for using Keen IO
 - Using Keen IO for Whitelabel Analytics [Blog post](http://hanskuder.com/2015/01/27/keenio-purchase-events/)
 
 ### [Electric Imp](https://electricimp.com):
-- Graphing PIR Motion Sensor Data with Electric Imp & Keen IO [Blog post](https://keen.io/blog/92158848051/graphing-pir-motion-sensor-data-with-electric-imp) 
+- Graphing PIR Motion Sensor Data with Electric Imp & Keen IO [Blog post](https://keen.io/blog/92158848051/graphing-pir-motion-sensor-data-with-electric-imp)
 
 ### [Firebase](https://www.firebase.com/):
 - Visualize Activity at Your Next Event With Lasers [Blog post](https://keen.io/blog/130769504271/visualize-activity-at-your-next-event-with)
@@ -50,6 +50,9 @@ List of project built with Keen IO or for using Keen IO
 
 ### [Pusher](https://pusher.com/):
 - Anonymously Tracking Developer Toolkit Usage with Keen IO and Pusher [Blog post](http://bladerunnerjs.org/blog/anonymous-usage-tracking/) / [Source code](https://github.com/BladeRunnerJS/brjs-usage-dashboard)
+
+### [Redux](http://redux.js.org):
+- Redux Keen Middleware: Send analytics to Keen.io based on your Redux actions. [Source code](https://github.com/pavelvolek/redux-keen)
 
 ### [SendGrid](https://sendgrid.com/):
 - Making a dashboard with Keen IO + SendGrid's Event Webhook data [Blog post](https://www.airpair.com/sendgrid/posts/making-a-dashboard-with-keen-io-sendgrid-events) / [Source code](https://github.com/heitortsergent/keen-io-sendgrid-dashboard)
