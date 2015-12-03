@@ -32,6 +32,9 @@ List of project built with Keen IO or for using Keen IO
 ### [Google Analytics](https://www.google.com/analytics/):
 - How to Get Raw Google Analytics Data Using Keen IO [Blog post](http://blog.uploadcare.com/how-to-dig-missing-google-analytics-data-with-keen/)
 
+### [Google Sheets](https://www.google.com/sheets/about/):
+- The simplest way to import your Keen IO data into Google Sheets [Blog post](https://www.linkedin.com/pulse/simplest-way-import-your-keen-io-data-google-sheets-gabellieri) / [Source code](https://github.com/fastfedora/google-docs/blob/master/scripts/ImportJSON/Code.gs)
+
 ### [Meteor](https://www.meteor.com/):
 - Cohort Visualization Tool built with Meteor and Keen IO [Blog post](https://www.airpair.com/keen-io/posts/making-phil-libin-style-cohort-visualizations-available-to-everyone)
 
