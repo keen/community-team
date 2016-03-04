@@ -30,7 +30,7 @@ List of project built with Keen IO or for using Keen IO
 - Making a Keen.io Dashboard Real-time by Integrating it with Firebase & D3.js [Blog post](https://www.airpair.com/firebase/posts/making-a-keenio-dashboard-realtime-by-integrating-it-with-firebase--d3js) / [Source code](https://github.com/markoshust/firebase-keen)
 
 ### [Fluentd](http://www.fluentd.org):
-- `fluent-keen-plugin`, a plugin to send data to Keen through Fluentd [Source code](https://github.com/car-throttle/fluent-keen-plugin)
+- `fluent-plugin-keen`, a plugin to send data to Keen through Fluentd / TD-Agent [Source code](https://github.com/car-throttle/fluent-plugin-keen)
 
 ### [Google Analytics](https://www.google.com/analytics/):
 - How to Get Raw Google Analytics Data Using Keen IO [Blog post](http://blog.uploadcare.com/how-to-dig-missing-google-analytics-data-with-keen/)
