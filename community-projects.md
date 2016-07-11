@@ -3,6 +3,9 @@ List of project built with Keen IO or for using Keen IO
 
 ### Organized by Framework, API, Hardware, or Platform used:
 
+### [AngularJS](https://angularjs.org/):
+- Keen IO directives for AngularJS [Source Code](https://github.com/theborakompanioni/angular-keenio)
+
 ### [Arduino](https://www.arduino.cc/):
 - Analytics Tracking for Arduino [Blog post](https://keen.io/blog/121840400161/introducing-analytics-tracking-for-arduino) / [Source Code](https://github.com/hex337/keen-arduino-activity-tracker)
 
