@@ -11,9 +11,10 @@ And now, on with the show!
 
 ##Team members
 * Sarah-Jane Morris [@sarahjanemorris](https://github.com/SarahJaneMorris)
-* Taylor Barnett [@taylor](http://github.com/tbarn)
+* Taylor Barnett [@tbarn](http://github.com/tbarn)
 * Tim Falls [@timfalls](http://github.com/timfalls)
 * Justin Johnson [@elof](http://github.com/elof)
+* Joe Wegner [@josephwegner](https://github.com/josephwegner)
 
 More importantly than the team members: the _community_ members. "Community" is difficult to define. It's somewhat intanglible and could be imagined or perceived in different ways by different people. In order to better understand _what_ commmunity is, it's helpful to identify _who_ a community is.
 
