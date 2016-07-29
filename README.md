@@ -16,7 +16,7 @@ And now, on with the show!
 * Justin Johnson [@elof](http://github.com/elof)
 * Joe Wegner [@josephwegner](https://github.com/josephwegner)
 
-More importantly than the team members: the _community_ members. "Community" is difficult to define. It's somewhat intanglible and could be imagined or perceived in different ways by different people. In order to better understand _what_ commmunity is, it's helpful to identify _who_ a community is.
+More importantly than the team members: the _community_ members. "Community" is difficult to define. It's somewhat intangible and could be imagined or perceived in different ways by different people. In order to better understand _what_ commmunity is, it's helpful to identify _who_ a community is.
 
 ###Who is the Keen community?
 Developers. Data scientists. Product managers. CTOs. API experts/enthusiasts. Open Source contributors. Entrepreneurs. Humans. Cats. Pugs.
